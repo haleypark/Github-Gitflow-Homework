@@ -1,0 +1,2 @@
+# Github-Gitflow-Homework
+Git Flow is a built-in way to branch and merge. It's convenient and effective. Repeat the previous assignment using Git Flow. Create a feature using GIT Flow in Git Kraken.  Make 2 or more commits in the feature. Make several changes to the same file in different features. (For example in a file named weather.txt. Add weather data for Utah in one feature, and for California to another. Complete the feature.  Use Git Krakens merge tool to fix conflicts if necessary. Repeat the process 3 times.
